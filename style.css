@@ -1,0 +1,17 @@
+h1{
+    font-size: 92px;
+    font-weight: 500;
+    background-color: magenta;
+    text-align: center;
+    
+}
+.banner {
+    width: 100%;
+}
+.icone {
+    width: 180px;
+    border: 15px solid blueviolet;
+    padding: 20px;
+    margin:auto;
+ 
+}
